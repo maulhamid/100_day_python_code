@@ -23,5 +23,3 @@ While Loops
 6. for loop is greater when you would to iterate something and you need to do something when each thing in iteration ()
 7. while loop if you dont care what a number in a sequence you're in, which item you're iterating through in a list and you just simply want to carry out some sort of functionality many, many times until some sort of condition that you set.
 
-Jumping over Hurdles with variables Heights
-1. 
