@@ -1,0 +1,20 @@
+Control Flow and Logical Operators
+Learning Time : 60minutes
+
+Control Flow with if/else and Conditional Operators
+1. the analogy of condition is, if water on the bathtub is greater than 80cm, then we should drain the water
+2. if condition: do this else: do this
+3. in condition indentation is really important
+4. when you write else statement, you should same indentation level as the if statement
+5. if you type = it means you assign value to the variable, but if you type == it means you are checking to see if the value on the left is equal to the value on the right
+
+Nested if statements and elif statements
+1. if we represent extra condition, you can using nested condition
+2. when you represent more than 2 condition use elif condition
+
+Multiple if Statements in Succession
+1. the variable bill start from 0, but when the condition meet the condition then the bill will change based on bill condition.
+2. if you add some condition like (if you want a photo taken) then the customer will get additional bill
+
+Logical Operator
+1. when you want to represent multiple condition in 1 if statements you can run Logical Operators like (and or not)

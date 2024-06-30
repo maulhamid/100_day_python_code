@@ -1,0 +1,21 @@
+Randomisation and Python List
+Learning Time : 64minutes
+
+Random Module
+1. Randomization is really important when we want to create computer program
+2. askpython is google for python programming
+3. if you want to use random, first you should import random
+4. randint(1,10) would define number from 1 to 10
+5. module to split the code up into individual modules where each module is responsible for a different bit of functionality of your program
+6. how to create a random decimal number between 0 and 5, cause random.random would return float from 0.00000 - 0.99999 the effective way is multiply with integer
+
+Understanding the Offset and Appending Item to Lists
+1. List -> way of organizing and storing data in Python
+2. List always start with a open square bracket and closing square bracket
+3. List index begin with 0, also you can use negative index [-1]
+4. You can replace item on your list by using List[1] = your_item
+
+IndexErrors and Working with Nested Lists
+1. one of the most common errors you’ll come across is something called the index out of range error
+2. if you have bunch of lists, you can perform len on you list, then you can put negative indexing
+3. you can create list by using, list = [list1,list2]

@@ -1,0 +1,32 @@
+Understanding Data Types and How to Manipulate Strings
+Learning Time : 50minutes
+
+Basic Data Types
+1. Type of data type String, Integer, Boolean, and Float
+2. String is character, usually indicated with " "
+3. We can get index from string using [], example "Hello"[0] the output is H, because indexes start from 0
+4. String can concatenate with other string, it cant concatenate with other data types like String + Integer
+5. Integer, if we have larger number like 123,456,789 usually using 123_456_789
+6. Float is decimal number
+7. Boolean True and False
+
+
+Type error
+1. Len function doesnt working with Integer
+2. Type Error would inform you the error part
+3. we can prevent type errors and we can see the data type using type() function
+4. if we have int type then we want to convert to string, we can use function str()
+5. Not just convert integer to string, we can convert string to integer using int()
+6. Integer to float float()
+
+Mathematical Operation
+1. when we devide int data using (/) the output is float 
+2. ** is exponen
+3. level of priority or PEMDAS is the order of priority
+4. () ** * / + -
+
+Number Manipulation and F string
+1. if you using // you would get 2 straight away without having to convert it into an integer
+2. you can use /= it means, you can devide previous number on variable with the variable
+3. example, if we have score = 0 instead of using this code score = score + 1, we can use score += 1
+4. instead of converting all variable into string example, we can use f string

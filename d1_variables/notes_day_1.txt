@@ -1,0 +1,22 @@
+Day 1 Working with Variables in Python to Manage Data
+Learning Time : 20minutes
+
+Print Function
+1. Some basic function in programing is Print
+2. Print function addressed to show the output
+3. If we would print String, please added some quotation marks or double quotes arount the String
+4. Print function have method to print new line using \n (backslash N)
+5. On Print function we can combine 2 string with concenate function (+)
+6. Space are very important in python, commonly space called indent
+
+Input Function
+1. Input function allow to user input some Data
+2. Input function pretty much identical to the print function, instead of the word print, it's just got the word input. And inside the parentheses,
+3. we can add comment on our code, comment usually using #
+4. we can put function inside the function, ex. print(input())
+
+Variables
+1. Variables addressed to store our data, so we can call our data on other code using Variables
+2. Examples in phone book, we usually put phone number like (maul:102131023) it means, 12131023 is maul phone number
+3. you can naming your variables whatever you want, but note that it should be consistent and make sure your code is readable in the future
+4. Variables should be unique and there are no space

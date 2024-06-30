@@ -1,0 +1,27 @@
+Function & Karel
+Learning Time : 70minutes
+
+Defining and Calling Pythion Function
+1. you can find all python built-in function on this link : docs.python.org/3/library/function.html
+2. to create own function, first you can start with this keyword def, then the second keyword is your function name
+3. examples : def my_function(): this mean is you define your own function
+4. my_function() it mean you call your own function
+
+Indentation in python
+1. Indentation -> when you create function, every line that comes after the function definition that is indented to be inside the function
+2. when you write code outside the function definition (not indented) so the last code not part of function
+3. so when you call your function, the last code will not run.
+4. if you want to create indentation, use space on your keyboard 
+5. in python3 you can mix space and tab when you want to indented your code
+
+While Loops
+1. While loops would run when the condition is true
+2. For Loops -> one where we're looping through a list of items to do something with each item in the list
+3. While Loops -> while the particular condition is true then we go inside the loop and we do something repeatedly.
+4. Important things, when you use while loops please define condition to stop the first condition. If you not define the condition so the program would continue running
+5. when we use for loop and when we use while loop?
+6. for loop is greater when you would to iterate something and you need to do something when each thing in iteration ()
+7. while loop if you dont care what a number in a sequence you're in, which item you're iterating through in a list and you just simply want to carry out some sort of functionality many, many times until some sort of condition that you set.
+
+Jumping over Hurdles with variables Heights
+1. 

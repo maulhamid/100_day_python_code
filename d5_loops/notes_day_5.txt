@@ -1,0 +1,12 @@
+Python Loop
+Learning Time : 40minutes
+
+Using the for loop with Python Lists
+1. concept of loop is things that have to happen over and over again.
+2. If we wanted to access each item in the list individually and print it out one by one, then we would use a for Loop
+3. for new_var in exist_var means, the first step new_var will assign first data from exist_var, and so on
+4. when yu see a colon, in if statement or for. the indentation is really important
+
+For Loops and the range() Function
+1. Range function very helpful when you would generate a range of number to loop through
+2. when you run function range(1,10) it would generate number from 1 to 10. but if you run function range (1,10, 5) the last part [5] it means step
