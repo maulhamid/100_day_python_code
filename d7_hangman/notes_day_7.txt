@@ -1,0 +1,5 @@
+Hangman
+Learning Time : 40minutes
+
+How to break complex problem down into a flow chart
+1. flow chart use to describe logic on your program
